@@ -1,4 +1,4 @@
-//Modificare noua sursa!!!
+//Modificare Ana 2
 //Test pull
 /*
 Consideram un sir format din n numere intregi. Sa se determine o secventa a sa avand suma elementelor maxima.
