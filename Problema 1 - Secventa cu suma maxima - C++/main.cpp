@@ -1,5 +1,5 @@
 //Modificare Ana 2
-//Test pull
+//Modificare Radu
 /*
 Consideram un sir format din n numere intregi. Sa se determine o secventa a sa avand suma elementelor maxima.
 O secventa a unui sir este formata din elemente ale sirului aflate pe pozitii consecutive.
