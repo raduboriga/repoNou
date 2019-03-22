@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528787824 source:g:\(curs emag 2017)\medii\curs 1\secventa cu suma maxima\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+	<cstdlib>
+	<ctime>
+
+1530024822 source:g:\(curs emag 2017)\medii\curs 1\problema 1 - secventa cu suma maxima - c++\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+	<cstdlib>
+	<ctime>
+
